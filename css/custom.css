@@ -1,0 +1,22 @@
+.no-img-style {
+	background: none !important;
+	border: none !important;
+	box-shadow: none !important;
+	padding: 0 20px !important;
+}
+
+.location {
+	position: fixed;
+	top: 20px;
+	right:20px;
+	color: #333;
+	font-weight: bold !important;
+}
+
+p.links small {
+	margin-top: 20px;
+}
+
+.card {
+	box-shadow: 0 0 4px #999999;
+}
